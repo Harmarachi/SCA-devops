@@ -1,3 +1,3 @@
 # SCA-devops
-Levelled Membership
+Levelled Membership.
 This repo is for SCA DevOps levelled membership assessment.
